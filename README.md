@@ -1,2 +1,2 @@
 # Unimate-UI
-A protoype UI for a University Students App
+A protoype UI for an University Students App
